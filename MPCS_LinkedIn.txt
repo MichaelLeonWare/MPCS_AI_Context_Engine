@@ -1,0 +1,236 @@
+========================================
+MPCS — LinkedIn Project & Post Copy
+By Michael Leon Ware | 2026
+© 2026 Michael Leon Ware. All rights reserved.
+========================================
+
+
+════════════════════════════════════════
+LINKEDIN PROJECT FIELDS
+════════════════════════════════════════
+
+PROJECT NAME
+────────────
+MPCS — Michael's Portable Context System
+
+
+PROJECT DESCRIPTION
+───────────────────
+MPCS is a lightweight portable context and memory system for moving
+structured working context between LLM chat windows, models, and tools.
+
+Drop a single Markdown file into any chat window — Claude, ChatGPT,
+Gemini, or any model that accepts file uploads — and instantly restore
+your working context, project rules, decisions, and handoff notes.
+
+Built with a built-in security layer called the MPCS Librarian, which
+scans every file on update and on load, classifying all content as:
+
+  ✅ Inert data
+  ⚠️ Possibly dangerous
+  🚫 Malicious code
+
+Nothing loads silently. Everything is flagged and summarized before it
+enters your session. You are always in control.
+
+Simple. Cheap. Controllable. Portable.
+
+──────────────────────────────────────
+© 2026 Michael Leon Ware. All rights reserved.
+Licensed under PolyForm Noncommercial License 1.0.0.
+Free for noncommercial use. Commercial use requires a separate license.
+Commercial licensing inquiries: mlware@protonmail.com
+Project: github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+──────────────────────────────────────
+
+
+PROJECT URL
+───────────
+https://github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+
+
+════════════════════════════════════════
+MEDIA TITLES (one per uploaded image/file)
+════════════════════════════════════════
+
+IMAGE 1 — Project Cover / Hero Image
+  Title: MPCS — Michael's Portable Context System | Portable AI Context & Memory Engine
+  Attribution: © 2026 Michael Leon Ware | PolyForm Noncommercial 1.0.0
+
+IMAGE 2 — README.md Screenshot
+  Title: MPCS Quickstart Guide — Full README
+  Attribution: © 2026 Michael Leon Ware | github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+
+IMAGE 3 — mpcs_v1.md Screenshot
+  Title: MPCS Engine File — mpcs_v1.md | The Core Context File
+  Attribution: © 2026 Michael Leon Ware | PolyForm Noncommercial 1.0.0
+
+IMAGE 4 — MPCS Librarian Flag Table
+  Title: MPCS Librarian — Built-in Context Poisoning Scanner
+  Attribution: © 2026 Michael Leon Ware | mlware@protonmail.com
+
+IMAGE 5 — Command Reference Table
+  Title: MPCS Command Reference | /mpcs_load /mpcs_update /mpcs_export
+  Attribution: © 2026 Michael Leon Ware | PolyForm Noncommercial 1.0.0
+
+IMAGE 6 — License File Screenshot
+  Title: MPCS License — PolyForm Noncommercial 1.0.0 | © 2026 Michael Leon Ware
+  Attribution: © 2026 Michael Leon Ware | mlware@protonmail.com
+
+IMAGE 7 — GitHub Repository Screenshot
+  Title: MPCS GitHub Repository | MPCS_AI_Context_Engine
+  Attribution: © 2026 Michael Leon Ware | github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+
+
+════════════════════════════════════════
+LINKEDIN ANNOUNCEMENT POST
+════════════════════════════════════════
+
+--- VERSION A: TECHNICAL AUDIENCE ---
+
+I built a portable memory system for LLMs. It's called MPCS.
+
+The problem: every time you open a new chat window, your context is gone.
+Your preferences, your project rules, your decisions — all of it. You
+start over. Every single time.
+
+MPCS fixes that with a single Markdown file.
+
+Drop mpcs_v1.md into any chat window — Claude, ChatGPT, Gemini, any
+model that accepts file uploads. Your working context loads instantly.
+
+But I didn't just want a context file. I wanted a safe one.
+
+So I built the MPCS Librarian into the system. Every time you update
+the file or load it into a new window, the Librarian scans and
+classifies every piece of data:
+
+  ✅ Inert data — loads fine
+  ⚠️ Possibly dangerous — warns you before loading
+  🚫 Malicious code — stops and alerts you
+
+Nothing loads silently. Everything gets a flag and a summary. You stay
+in control of what enters your session.
+
+Six commands. One file. Works across models.
+
+  /mpcs_load         → load your context
+  /mpcs_update       → save your session
+  /mpcs_export       → export for the next window
+  /mpcs_librarian_scan → manual safety scan
+  /mpcs_status       → check what's loaded
+  /mpcs_clean_template → start fresh
+
+Free for noncommercial use. Commercial licensing available.
+
+🔗 github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+
+#AI #LLM #PromptEngineering #AITools #ProductivityTools #OpenSource
+#ContextEngineering #Claude #ChatGPT #Gemini #AIWorkflow
+
+──────────────────────────────────────
+© 2026 Michael Leon Ware. Licensed under PolyForm Noncommercial 1.0.0.
+Commercial licensing: mlware@protonmail.com
+──────────────────────────────────────
+
+
+--- VERSION B: BROADER / LESS TECHNICAL ---
+
+What if your AI assistant actually remembered where you left off?
+
+Not through a paid subscription feature. Not through a proprietary
+memory system you can't inspect or control. Just a Markdown file you
+own, you control, and you can drop into any LLM in seconds.
+
+That's MPCS — Michael's Portable Context System.
+
+I built it because I was tired of re-explaining my projects, my
+preferences, and my decisions every time I opened a new chat window.
+
+One file. Drag. Drop. Load. Done.
+
+It works with Claude, ChatGPT, Gemini — any model that accepts file
+uploads. And it has a built-in safety scanner called the MPCS Librarian
+that reviews everything before it loads, so nothing enters your session
+without your knowledge.
+
+Simple. Cheap. Controllable. Portable.
+
+Free for noncommercial use. Full documentation on GitHub.
+
+🔗 github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+
+#AI #LLM #AITools #Productivity #ContextEngineering #PromptEngineering
+#ChatGPT #Claude #Gemini #PersonalAI #AIMemory
+
+──────────────────────────────────────
+© 2026 Michael Leon Ware. Licensed under PolyForm Noncommercial 1.0.0.
+Commercial licensing: mlware@protonmail.com
+──────────────────────────────────────
+
+
+--- VERSION C: PERSONAL / STORY-DRIVEN ---
+
+I got tired of repeating myself to AI.
+
+Every new chat window. Every new session. Every time I switched models.
+Same context. Same background. Same preferences. Over and over.
+
+So I built something.
+
+MPCS — Michael's Portable Context System — is a single Markdown file
+that carries your working context between any LLM chat window. Drop it
+in. Type /mpcs_load. You're back where you left off.
+
+I also built in a security layer I call the MPCS Librarian. Because
+context files can carry risks — injected instructions, sensitive data,
+or worse. The Librarian scans every file before it loads and flags
+anything that isn't clean. You see the summary. You decide what loads.
+
+It's lightweight. It's free for noncommercial use. And it works today
+with Claude, ChatGPT, and Gemini.
+
+Built under the Michael Leon Ware brand. First release: v1.
+
+🔗 github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+
+#AI #LLM #AITools #ContextEngineering #PromptEngineering #PersonalAI
+#AIMemory #Claude #ChatGPT #Gemini #MichaelLeonWare
+
+──────────────────────────────────────
+© 2026 Michael Leon Ware. Licensed under PolyForm Noncommercial 1.0.0.
+Commercial licensing: mlware@protonmail.com
+──────────────────────────────────────
+
+
+════════════════════════════════════════
+LEGAL ATTRIBUTION PLACEMENT GUIDE
+════════════════════════════════════════
+
+WHERE TO PUT LEGAL ATTRIBUTION ON LINKEDIN:
+
+  Project Description (bottom)
+    © 2026 Michael Leon Ware. All rights reserved.
+    Licensed under PolyForm Noncommercial License 1.0.0.
+    Free for noncommercial use. Commercial use requires a separate license.
+    mlware@protonmail.com
+
+  Every Media Title (append to each)
+    © 2026 Michael Leon Ware
+
+  Announcement Post (bottom of every version)
+    © 2026 Michael Leon Ware. Licensed under PolyForm Noncommercial 1.0.0.
+    Commercial licensing: mlware@protonmail.com
+
+  Any future post sharing the project
+    © 2026 Michael Leon Ware | PolyForm Noncommercial 1.0.0
+    github.com/MichaelLeonWare/MPCS_AI_Context_Engine
+
+NOTE: LinkedIn does not have a dedicated copyright field. Embedding
+attribution in the project description and media titles is the correct
+approach. It is visible, user-facing, and timestamped by LinkedIn when
+you publish.
+
+========================================
+End of MPCS LinkedIn Copy | © 2026 Michael Leon Ware
+========================================
